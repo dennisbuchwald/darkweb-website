@@ -1,7 +1,8 @@
-
 # Darkweb-Website
 
-Willkommen zu der Darkweb-Website, die im Rahmen des YouTube-Projekts "Ich versuche eine Website im Darkweb zu veröffentlichen" erstellt wurde. Sie können sich das zugehörige Video auf YouTube ansehen: [Link zum YouTube-Video](PLATZHALTER_FÜR_YOUTUBE_LINK).
+Willkommen zu der Darkweb-Website, die im Rahmen des YouTube-Projekts "Ich versuche eine Website im Darkweb zu veröffentlichen" erstellt wurde.
+
+<!-- Sie können sich das zugehörige Video auf YouTube ansehen: [Link zum YouTube-Video](PLATZHALTER_FÜR_YOUTUBE_LINK).
 
 ## Versionen
 
@@ -22,4 +23,4 @@ Viel Spaß beim Erkunden!
 
 ---
 
-**Hinweis**: Bitte scannen Sie den QR-Code auf der Startseite nicht, es sei denn, Sie wissen genau, was Sie tun.
+**Hinweis**: Bitte scannen Sie den QR-Code auf der Startseite nicht, es sei denn, Sie wissen genau, was Sie tun. -->
