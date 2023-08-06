@@ -14,8 +14,8 @@ a {
 	text-decoration: none;
 	padding: 0 10px;
 }
-img {
-	max-width: 100%;
+.qu-code {
+	max-width: 20%;
 	height: auto;
 }
 header {
@@ -155,8 +155,7 @@ li {
 
 #pagination button {
 	background-color: #333;
-	color: #0f0; /* Hacker green */
-	border: none;
+	color: #0f0;
 	padding: 5px 15px;
 	text-align: center;
 	text-decoration: none;
@@ -169,6 +168,11 @@ li {
 
 #pagination button:hover {
 	background-color: #555;
+}
+
+.linklist a {
+	padding: 5px;
+	text-decoration: underline;
 }
 
 /* Media Query for small screens */
@@ -187,9 +191,12 @@ li {
 		font-size: 18px;
 	}
 
-	h1,
-	h2 {
+	h1 {
 		font-size: 24px;
+	}
+
+	h2 {
+		font-size: 16px;
 	}
 
 	header ul {
@@ -201,6 +208,6 @@ li {
 		margin: 5px 0;
 	}
 	header li a {
-		font-size: 24px;
+		font-size: 18px;
 	}
 }
