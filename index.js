@@ -61,3 +61,12 @@ function paginateEntries() {
 
 // Call paginateEntries when a new entry is added or when page is loaded
 paginateEntries();
+
+document.querySelector('.hamburger-icon').addEventListener('click', function() {
+    var navMenu = document.querySelector('.nav-menu');
+    if (navMenu.style.display === 'none' || navMenu.style.display === '') {
+        navMenu.style.display = 'block';
+    } else {
+        navMenu.style.display = 'none';
+    }
+});
